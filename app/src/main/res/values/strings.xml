@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NyBooks</string>
+
+    <!-- Books Activity -->
+    <string name="books_title">Books</string>
+    <string name="books_category">Category</string>
+    <string name="books_group">BookGroup</string>
+
+</resources>
